@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local database/config files
+config.local.php
+db.local.php
+
+# XAMPP / local files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
